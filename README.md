@@ -4,8 +4,7 @@ Majority of this Repository is taken from matterport's Mask R-CNN repository.
 
 You can check it out here: https://github.com/matterport/Mask_RCNN
 
-**This repository simplifies the file structure making it easy to follow my tutorial
-**
+**This repository simplifies the file structure making it easy to follow my tutorial**
 
 There are two things that we have to download and add to this repository after cloning it. 
 
